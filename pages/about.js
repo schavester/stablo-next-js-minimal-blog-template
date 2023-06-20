@@ -42,8 +42,10 @@ export default function About({ authors, siteconfig }) {
           <p>
             Earlier this year, I reached out to several City departments on a quest for vacancy data. Knowing what I know about housing misuse and buildings being left empty (sometimes for years), I suspected the official vacancy rate might not be accurate.
           </p>
-       
+       <p>I received no responses at first, received unhelpful non-responses, had the buck passed to other departments (who didn't respond at all), and got an unprofessional (and frankly quite snotty) comment from a City official on Twitter. (If you are one of the above people, shame on you. You work for Angelenos, not the other way around.)</p><p>I received no responses at first, received unhelpful non-responses, had the buck passed to other departments (who didn't respond at all), and got an unprofessional (and frankly quite snotty) comment from a City official on Twitter. (If you are one of the above people, shame on you. You work for Angelenos, not the other way around.)</p>
           <p>
+                 <p>Eleven days ago, while looking over the Los Angeles Department of Building and Safety's Vacant Building Abatement List, it occurred to me that perhaps a map could help convey SOME idea of the problem.</p>
+      <p>Six days ago, I made an offhand comment on an Instagram post. LA Taco posted about potential buyers needing a combined annual income of $178,400 to buy a home in Southern California, and I commented on the shocking number of abated properties going to waste in the city of Los Angeles alone. </p>
             <Link href="/contact">Get in touch</Link>
           </p>
         </div>
