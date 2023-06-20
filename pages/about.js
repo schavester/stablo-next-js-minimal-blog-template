@@ -40,7 +40,7 @@ export default function About({ authors, siteconfig }) {
 
         <div className="mx-auto prose text-center dark:prose-invert mt-14">
           <p>
-            Earlier this year, I reached out to several City departments on a quest for vacancy data. Knowing what I know about housing misuse and buildings being left empty (sometimes for years), I suspected the official vacancy rate might not be accurate.
+<iframe src="https://www.google.com/maps/d/embed?mid=1o9HbMpGQU8GDVu-4W5KC-zbUG_gQCao&ehbc=2E312F" width="640" height="480"></iframe>
           </p>
           <p> <Link href="/contact">Get in touch</Link>
           </p>
