@@ -14,7 +14,7 @@ export default function About({ authors, siteconfig }) {
           About
         </h1>
         <div className="text-center">
-          <p className="text-lg">We are a small passionate team.</p>
+          <p className="text-lg">Our map of Empty Los Angeles</p>
         </div>
 
         <div className="grid grid-cols-3 gap-5 mt-6 mb-16 md:mt-16 md:mb-32 md:gap-16">
