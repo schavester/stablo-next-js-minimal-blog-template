@@ -42,7 +42,8 @@ export default function About({ authors, siteconfig }) {
           <p>
             Earlier this year, I reached out to several City departments on a quest for vacancy data. Knowing what I know about housing misuse and buildings being left empty (sometimes for years), I suspected the official vacancy rate might not be accurate.
           </p>
-       <p>I received no responses at first, received unhelpful non-responses, had the buck passed to other departments (who didn't respond at all), and got an unprofessional (and frankly quite snotty) comment from a City official on Twitter. (If you are one of the above people, shame on you. You work for Angelenos, not the other way around.)</p>
+       <p>I received no responses at first, received unhelpful non-responses, had the buck passed to other departments (who didn't respond at all), and got an unprofessional (and frankly quite snotty) comment from a City official on Twitter. (If you are one of the above people, shame on you. You work for Angelenos, not the other way around.)
+          </p>
            <p> <Link href="/contact">Get in touch</Link>
           </p>
         </div>
