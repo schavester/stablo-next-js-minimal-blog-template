@@ -29,8 +29,8 @@ export default function Contact({ siteconfig }) {
 
   const { submit: onSubmit } = useWeb3Forms({
     apikey: apiKey,
-    from_name: "Stablo Template",
-    subject: "New Contact Message from Stablo Website",
+    from_name: "Empty Los Angeles",
+    subject: "New Contact Message from Empty Los Angeles",
     onSuccess: (msg, data) => {
       setIsSuccess(true);
       setMessage(msg);
@@ -55,17 +55,17 @@ export default function Contact({ siteconfig }) {
         <div className="grid my-10 md:grid-cols-2">
           <div className="my-10">
             <h2 className="text-2xl font-semibold dark:text-white">
-              Contact Stablo
+              Contact Empty Los Angeles
             </h2>
             <p className="max-w-sm mt-5">
               Have something to say? We are here to help. Fill up the
-              form or send email or call phone.
+              form or send email.
             </p>
 
             <div className="mt-5">
               <div className="flex items-center mt-2 space-x-2 text-dark-600 dark:text-gray-400">
                 <LocationMarkerIcon className="w-4 h-4" />
-                <span>1734 Sanfransico, CA 93063</span>
+                <span></span>
               </div>
               {siteconfig?.email && (
                 <div className="flex items-center mt-2 space-x-2 text-dark-600 dark:text-gray-400">
