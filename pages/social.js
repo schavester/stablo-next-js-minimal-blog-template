@@ -13,13 +13,7 @@ export default function Map({ authors, siteconfig }) {
         <h1 className="mt-2 mb-3 text-3xl font-semibold tracking-tight text-center lg:leading-snug text-brand-primary lg:text-4xl dark:text-white">
           SOCIAL MEDIA
         </h1>
-        <div className="text-center">
-          <p className="text-lg">Our map of Empty Los Angeles</p>
-        </div>
-
-       
-
-        <div className="mx-auto prose text-center dark:prose-invert mt-14">
+ <div className="mx-auto prose text-center dark:prose-invert mt-14">
           <ul>
           <li><a href=" https://www.instagram.com/EmptyLosAngeles/">INSTAGRAM</a>
           <li><a href="https://www.twitter.com/emptylosangeles">TWITTER</a>
