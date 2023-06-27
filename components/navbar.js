@@ -35,7 +35,7 @@ export default function Navbar(props) {
     },
         {
       label: "Twitter",
-      href: "Twitter: https://www.twitter.com/emptylosangeles",
+      href: "https://www.twitter.com/emptylosangeles",
       external: true
     },
     {
