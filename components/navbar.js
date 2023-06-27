@@ -29,8 +29,14 @@ export default function Navbar(props) {
       href: "/archive"
     },
     {
-      label: "Social Media",
-      href: "/social"
+      label: "Instagram",
+      href: "https://www.instagram.com/EmptyLosAngeles/",
+      external: true
+    },
+        {
+      label: "Twitter",
+      href: "Twitter: https://www.twitter.com/emptylosangeles",
+      external: true
     },
     {
       label: "Map",
