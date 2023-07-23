@@ -1,4 +1,4 @@
-# Stablo Blog Template - Next.js & Sanity CMS
+# Stablo Blog Template -- Next.js & Sanity CMS
 
 Stablo is a JAMStack Blog template built with Next.js, Tailwind CSS & Sanity CMS by [Web3Templates](https://web3templates.com/). It comes with free & pro version. 
 
