@@ -1,0 +1,5 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+sitemap: https://a319309.sitemaphosting6.com/4380403/sitemap_4380403.xml
